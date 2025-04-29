@@ -3,7 +3,7 @@ import sqlite3
 import pyshorteners
 
 # Замените 'YOUR_BOT_TOKEN' на токен вашего Telegram-бота
-BOT_TOKEN = '6899230153:AAGV2Hw4_r954Mc596sEBHY0K7Zuq0m5GAQ'
+BOT_TOKEN = 'YOUR_BOT_TOKEN'
 
 # Инициализация бота
 bot = telebot.TeleBot(BOT_TOKEN)
