@@ -3,7 +3,7 @@ import sqlite3
 import pyshorteners
 
 # Replace 'YOUR_BOT_TOKEN' with your Telegram bot token
-BOT_TOKEN = '6899230153:AAGV2Hw4_r954Mc596sEBHY0K7Zuq0m5GAQ'
+BOT_TOKEN = 'YOUR_BOT_TOKEN'
 
 # Initialize the bot
 bot = telebot.TeleBot(BOT_TOKEN)
